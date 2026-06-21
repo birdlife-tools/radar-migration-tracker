@@ -24,7 +24,7 @@ Tool that pulls public binary radar data and applies filters removing meteorolog
 
 Join the discussion:
 
-[![Matrix](https://img.shields.io/badge/Matrix-%23radar-migration-tracker-black?logo=matrix)](https://matrix.to/#/#radar-migration-tracker:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix](https://matrix.to/#/#radar-migration-tracker:matrix.org)
 
 ## License
 
