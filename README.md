@@ -20,6 +20,12 @@ Tool that pulls public binary radar data and applies filters removing meteorolog
 
 🚧 Planning
 
+## Community
+
+Join the discussion:
+
+[![Matrix](https://img.shields.io/badge/Matrix-%23radar-migration-tracker-black?logo=matrix)](https://matrix.to/#/#radar-migration-tracker:matrix.org)
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
